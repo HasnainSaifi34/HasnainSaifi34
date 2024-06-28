@@ -1,7 +1,8 @@
 # 👨‍💻 About Me
 
 ## Introduction
-Hello! I am a student studying **Information Technology** with a deep enthusiasm for **Artificial Intelligence and Machine Learning (AIML)**. My journey in the tech world has led me to work on various projects, primarily using Python and JavaScript. 
+Hello! myself <b>Hasnain Saifi</b> I am a student studying **Information Technology** with a deep enthusiasm for **Artificial Intelligence and Machine Learning (AIML)**. My journey in the tech world has led me to work on various projects, primarily using Python and JavaScript. 
+
 
 ## 🔗 Connect with Me
 - **LinkedIn:** [Hasnain Saifi](https://www.linkedin.com/in/hasnain-saifi-bb7a6b299/) 🔗
